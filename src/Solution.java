@@ -1,5 +1,4 @@
-public class Solution {
-    public boolean hasCycle(ListNode head) {
+package PACKAGE_NAME;
 
-    }
+public class Solution {
 }
