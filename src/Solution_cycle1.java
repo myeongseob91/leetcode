@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-public class Solution {
+public class Solution_cycle1 {
     public boolean hasCycle(ListNode head) {
 
         HashSet<ListNode> set = new HashSet<>();

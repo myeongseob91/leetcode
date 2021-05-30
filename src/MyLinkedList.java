@@ -8,7 +8,7 @@ class MyLinkedList {
     }
 
     private int size;
-    private Node head;
+    public Node head;
 
     /** Initialize your data structure here. */
     public MyLinkedList() {
